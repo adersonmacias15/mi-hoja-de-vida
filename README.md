@@ -1,7 +1,7 @@
 # mi-hoja-de-vida
 
-**Nombre completo:** 
-Anderson Macias Gutierrez
+**Nombre completo:**
+--- Anderson Macias Gutierrez
 **Cedula:** 
 1022935756
 **Celular:** 
