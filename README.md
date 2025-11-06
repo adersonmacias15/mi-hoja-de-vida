@@ -1,10 +1,10 @@
 # mi-hoja-de-vida
 
-**Nombre completo:**  Anderson Macias Gutierrez
-**Cedula:**  1022935756
-**Celular:**  3223495337
-**Correo electrónico:**  adersonmacias15@gmail.com
-**Dirección:**  Calle 76 a bis sur # 16 H 29
+**Nombre completo:** Anderson Macias Gutierrez  
+**Cedula:** 1022935756  
+**Celular:** 3223495337  
+**Correo electrónico:** adersonmacias15@gmail.com  
+**Dirección:** Calle 76 a bis sur # 16 H 29
 
 ## Perfil profesional
 - Me caracterizo por ser una persona comprometida, con deseos de superación y aceptación a nuevas ideas que ayuden a los cambios favorables de mi entorno de trabajo y al mejoramiento de mi labor a realizar, cumplo de manera adecuada con puntualidad, honestidad, responsabilidad y con sentido de pertenencia; una persona organizada, proactiva y directa.
